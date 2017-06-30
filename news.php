@@ -2,6 +2,15 @@
 	$sql = "SELECT * FROM  news";
 	$query = mysql_query($sql);
 	mysql_fetch_assoc($query);
+	$sql = "SELECT * FROM  news";
+	$query = mysql_query($sql);
+	mysql_fetch_assoc($query);
+	$sql = "SELECT * FROM  news";
+	$query = mysql_query($sql);
+	mysql_fetch_assoc($query);
+	$sql = "SELECT * FROM  news";
+	$query = mysql_query($sql);
+	mysql_fetch_assoc($query);
 ?>
 <!DOCTYPE html>
 <html>
